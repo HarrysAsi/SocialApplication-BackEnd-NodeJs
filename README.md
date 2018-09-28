@@ -1,6 +1,8 @@
 # SocialApplication-BackEnd-NodeJs
-Node Js - Express ( RESTfull API - Socket )
-A backend made for the SocialAppy application. It contains endpoints and the socket communication between front-end and back-end.
+Node Js - Express ( RESTfull API - Socket ) <br>
+A backend made for the SocialAppy application. <br>
+It contains endpoints and the socket communication between front-end and back-end. <br>
+<strong>It stills in development mode.</strong>
 
 ### Prerequisites - installing
 
