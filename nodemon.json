@@ -1,0 +1,14 @@
+{
+  "env": {
+    "DATABASE_HOST": "localhost",
+    "DATABASE_USER": "root",
+    "DATABASE_PASSWORD": "",
+    "DATABASE_NAME": "social_appy",
+
+    "BCRYPT_HASH_LENGTH": 10,
+
+    "JWT_KEY": "JwtSecretKey",
+    "JWT_KEY_EXPIRE_TIME": "10h"
+  }
+
+}
